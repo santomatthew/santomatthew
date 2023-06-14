@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @santomatthew
 - 👀 I’m interested in Software Development, Fullstack Engineering, Web Development, Front End Development, Back End Development
 - 🌱 I’m currently learning Java Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Big Project, Freelance Project
 - 📫 Contact Me : matthewalesandro78@gmail.com
 
 <!---
